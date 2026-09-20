@@ -1,0 +1,27 @@
+{
+    "summary": {
+        "avg_population_billion": 9.18,
+        "total_growth_rate_percent": 27.46,
+        "cagr_percent": 0.32,
+        "start_year": 2024,
+        "end_year": 2100
+    },
+    "data": [
+        {
+            "year": 2024,
+            "population": 8.12
+        },
+        {
+            "year": 2030,
+            "population": 8.55
+        },
+        {
+            "year": 2050,
+            "population": 9.71
+        },
+        {
+            "year": 2100,
+            "population": 10.35
+        }
+    ]
+}
