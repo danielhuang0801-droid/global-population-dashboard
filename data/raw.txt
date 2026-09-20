@@ -1,0 +1,8 @@
+# Global Population Historical and Projected Data (in billions)
+# Source: UN World Population Prospects
+
+Year,Population
+2024,8.12
+2030,8.55
+2050,9.71
+2100,10.35
